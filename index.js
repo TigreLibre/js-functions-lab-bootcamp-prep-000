@@ -1,5 +1,3 @@
-var name = Guerie
-var holiday = Birthday
 
 function happyHolidays(string) {
     return `Happy holidays!`
@@ -12,4 +10,5 @@ function happyHolidaysTo(string) {
 
 function happyHolidaysTo(string) {
   return ('Happy ${holiday}, ${name}')
+
 }
