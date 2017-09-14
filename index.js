@@ -10,4 +10,3 @@ function happyHolidaysTo(string) {
 function happyHolidaysTo(string) {
   return ('Happy Birthday, Guerie!')
 }
-
