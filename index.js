@@ -10,5 +10,5 @@ function happyHolidaysTo(string) {
 
 function happyHolidaysTo(string) {
   return ('Happy ${holiday}, ${name}')
-
+  say happyHolidaysTo `Guerie`
 }
