@@ -1,3 +1,6 @@
+var name = Guerie
+var holiday = Birthday
+
 function happyHolidays(string) {
     return `Happy holidays!`
 }
@@ -8,5 +11,5 @@ function happyHolidaysTo(string) {
 }
 
 function happyHolidaysTo(string) {
-  return ('Happy Birthday, Guerie!')
+  return ('Happy ${holiday}, ${name}')
 }
