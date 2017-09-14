@@ -8,7 +8,4 @@ function happyHolidaysTo(string) {
   return ('Happy holidays, you!')
 }
 
-function happyHolidaysTo(string) {
-  return ('Happy ${holiday}, ${name}')
-  say happyHolidaysTo `Guerie`
-}
+
