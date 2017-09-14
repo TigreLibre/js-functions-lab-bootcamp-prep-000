@@ -8,6 +8,6 @@ function happyHolidaysTo(string) {
   return ('Happy holidays, you!')
 }
 
-function happyHolidaysTo(string) {
+function happyHolidayTo(string) {
   return (`Happy Independence Day, you!`)
 }
